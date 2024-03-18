@@ -1,0 +1,2 @@
+Name	price	quantity	total
+milk 	120.0 	3.0  	360.0
